@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This site pulls data from https://news.ycombinator.com/ and displays it with infinite scrolling and personalized design! 
 
+Ok, the design might be a little bare bones, this is mostly a proof of concept site for now.
 ## Available Scripts
 
 In the project directory, you can run:
