@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This site pulls data from https://news.ycombinator.com/ and displays it with infinite scrolling and personalized design! 
 
 Ok, the design might be a little bare bones, this is mostly a proof of concept site for now.
+
 Feel free to check out the site in production at http://BLEDE.github.io/react-news-stand!
 
 ## Available Scripts
